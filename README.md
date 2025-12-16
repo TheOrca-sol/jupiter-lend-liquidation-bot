@@ -338,13 +338,6 @@ MIT License - see LICENSE file for details
 
 This software is provided as-is without any guarantees. Liquidation bot operations involve financial risk. Always test thoroughly and understand the risks before running on mainnet with significant capital. The authors are not responsible for any losses incurred through use of this software.
 
-## Support
-
-For issues or questions:
-
-1. Check the [Jupiter Lend Documentation](https://dev.jup.ag/docs/lend-api/liquidation)
-2. Join the [Jupiter Discord](https://discord.gg/jup) and ask in the `#dev` or `#jup-lend` channels
-3. Reach out to [@jup_lend](https://twitter.com/jup_lend) on Twitter
 
 ---
 
